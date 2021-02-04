@@ -1,6 +1,6 @@
-Wasif Ahmad \n
-This is a markdown file \n 
-This is my second change \n
-This is my third change \n
+Wasif Ahmad 
+This is a markdown file 
+This is my second change 
+This is my third change 
 This is the second branch 
 
